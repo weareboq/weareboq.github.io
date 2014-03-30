@@ -1,0 +1,49 @@
+ `ooo
+ .MMN
+ .MMN
+ .MMN
+ .MMN
+ .MMN `:ohmNNNmhs/`      -+ydmNNmdy+.      `/shmNNmdho:
+ .MMNsNMMNdyyydNMMMy-  +mMMMmhyyhmMMMd/  -hMMMNhyyhdMMMNo`
+ .MMMMMy-       -sNMMsmMMd/`      `+mMMdyMMNo.       :yMMN/
+ .MMMm.           .dMMMM+            oMMMMh`           :NMM:
+ .MMM-             `NMMs              hMMm`             /MMm
+ .MMN               mMM/              +MMh              `MMM`
+  NMM:             .MMMy              dMMN`             +MMM`
+  /MMN:           -mMMMMo           `yMMMMd.           /MMMM`
+   :NMMh/`     `:yMMNodMMmo.      -oNMMyoMMNs:      `/dMMMMM`
+    `omMMMmdhdmMMMNs`  :hMMMNdddmNMMMh:  .sNMMMmdhdNMMMmoMMM`
+       .+shdddhy+-       `/oyddddyo:`       -oyhdddhs/. `MMM`
+                                                        `MMM`
+                                                        `MMM`
+                                                        `MMM`
+                                                        `MMM`
+                                                         +++
+
+/* TEAM */
+
+	Human: Guilherme Cartaxo
+	Contact: guilherme [at] weareboq.com
+	Twitter: @guictx
+	Location: Lisboa, Portugal
+
+	Human: Miguel Duarte
+	Contact: miguel [at] weareboq.com
+	Location: Lisboa, Portugal
+
+    Human: Bruno Pinto
+    Contact: bruno [at] weareboq.com
+    Location: Mercês, Portugal
+
+/* THANKS */
+
+	Bloq background texture: Christopher J. Ivory
+	Site: http://sadronmeldir.deviantart.com
+
+/* SITE */
+
+	Twitter: @weareboq
+	Language: English / Português
+	Doctype: HTML5
+	Front-end: HTML5, CSS3, Hyphenator.js
+	Back-end: Jekyll

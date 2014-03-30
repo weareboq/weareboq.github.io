@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Bloq</title>
+  <link href="http://weareboq.com/bloq/"/>
+  <link type="application/atom+xml" rel="self" href="http://weareboq.com/bloq-en.atom"/>
+  <updated>2014-03-30T21:28:52+01:00</updated>
+  <id>http://weareboq.com/</id>
+
+  
+  	
+  
+  	
+		  <entry>
+		    <id>http://weareboq.com/en/bloq/nomad-wednesdays</id>
+		    <link type="text/html" rel="alternate" href="http://weareboq.com/en/bloq/nomad-wednesdays"/>
+		    <title>Nomad Wednesdays</title>
+		    <published>2011-12-06T00:00:00+00:00</published>
+		    <updated>2011-12-06T00:00:00+00:00</updated>
+		    <author>
+		      <name>Guilherme Cartaxo</name>
+		      <uri>http://weareboq.com/</uri>
+		    </author>
+		    <content type="html">&lt;p&gt;Last November 16 I decided to try something different: I grabbed my laptop and instead of coming to our studio I went to a friends’ &lt;a href=&quot;http://www.ateliermob.com/&quot;&gt;architecture studio&lt;/a&gt; to work from there. It was a great day of work: I got things done, had wonderful conversations, met new people and even had homemade italian food for lunch.&lt;/p&gt;
+
+&lt;p&gt;The idea of going out and work from another office had been maturing in my head for a while, mostly because of some observations I did about how I work:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is good to get out of my comfort zone and deal with the unexpected;&lt;/li&gt;
+&lt;li&gt;I learn a lot by working next to people that do other sutff and see the world through a different perspective;&lt;/li&gt;
+&lt;li&gt;I’m very curious about the way people organize and occupy their workspace;&lt;/li&gt;
+&lt;li&gt;I like to show my work to others and get their feedback.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The problem with ripe ideas is that &lt;a href=&quot;http://www.youtube.com/watch?v=24prm3XjVgk&quot;&gt;they take too much space in our head&lt;/a&gt;. Finally getting out to spend the day at &lt;a href=&quot;http://www.ateliermob.com/&quot;&gt;ateliermob&lt;/a&gt; was such a great experience that I made an important decision: from then on all my wednesdays would be like that.&lt;/p&gt;
+
+&lt;p&gt;Thus the &lt;strong&gt;Nomad Wednesdays&lt;/strong&gt; were born!&lt;/p&gt;
+
+&lt;p&gt;The following wednesday I went to &lt;a href=&quot;http://corefactor.pt/&quot;&gt;CoreFactor&lt;/a&gt;, a web development studio. And then to &lt;a href=&quot;http://coworklisboa.pt/&quot;&gt;Cowork Lisboa&lt;/a&gt; to hang with &lt;a href=&quot;http://www.widgilabs.com/&quot;&gt;WidgiLabs&lt;/a&gt;, a WordPress development company. Three Nomad Wednesdays later the pattern is confirmed: I get work done, have great conversations, learn a lot and meet new people.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile &lt;a href=&quot;http://twitter.com/ananeves&quot;&gt;@ananeves&lt;/a&gt; got interested by the story and wrote an &lt;a href=&quot;http://kmol.online.pt/en/2011/11/25/nomad-wednesdays&quot;&gt;article about it&lt;/a&gt;. Then &lt;a href=&quot;http://twitter.com/AnaDataGirl&quot;&gt;@AnaDataGirl&lt;/a&gt; asked me a few questions by email and wrote on her blog about &lt;a href=&quot;http://artlifework.wordpress.com/2011/11/29/serendipity-at-wednesdays-a-nomad-way-of-working/&quot;&gt;Nomad Wednesdays and Serendipty.&lt;/a&gt; And now we even have &lt;a href=&quot;https://twitter.com/#!/widgilabs/status/142329434773524480&quot;&gt;more&lt;/a&gt; &lt;a href=&quot;https://twitter.com/#!/geoannita/status/142654184972492801&quot;&gt;people&lt;/a&gt; doing the same!&lt;/p&gt;
+
+&lt;p&gt;The next &lt;strong&gt;Nomad Wednesday&lt;/strong&gt; is tomorrow at &lt;a href=&quot;http://thelisbonstudio.blogspot.com/&quot;&gt;The Lisbon Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have a nomad relationship with your work or a desk to share I would love to hear from you on Twitter: &lt;a href=&quot;http://twitter.com/guictx&quot;&gt;@guictx&lt;/a&gt;, #nomadwednesdays or #quartasnomadas.&lt;/p&gt;
+</content>
+		  </entry>
+		
+  
+  	
+		  <entry>
+		    <id>http://weareboq.com/en/bloq/bloq-our-own-blog</id>
+		    <link type="text/html" rel="alternate" href="http://weareboq.com/en/bloq/bloq-our-own-blog"/>
+		    <title>bloq - our own blog</title>
+		    <published>2011-11-28T00:00:00+00:00</published>
+		    <updated>2011-11-28T00:00:00+00:00</updated>
+		    <author>
+		      <name>Guilherme Cartaxo</name>
+		      <uri>http://weareboq.com/</uri>
+		    </author>
+		    <content type="html">&lt;p&gt;This design studio is powered by conversations.&lt;/p&gt;
+
+&lt;p&gt;Among us, we’re always talking about the projects at hand and discussing in great detail all the decisions to be made. With friends, we unload uncertainties and release our enthusiasm. With fellow designers and developers, we share experiences and ask a awful lot of questions. Talking is a very important part of our work process and essential to make sense of everything that happens. And there’s a lot to make sense of when your design studio is in Portugal.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;http://weareboq.com/en/bloq&quot;&gt;bloq&lt;/a&gt;, that we’re now starting, is our attempt to organize and record all these conversations. We will write about our work and also about the way we work. Sometimes we discover a very elegant solution to a problem, others we find the exact formula to make a mistake. Both should be shared. Beyond what we do in the studio, we want to write about interesting projects and people that inspire us. Fortunately there’s no shortage of material for that.&lt;/p&gt;
+
+&lt;p&gt;We hope you like!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://weareboq.com/images/estudio_boq.jpg&quot; alt=&quot;boq studio&quot; title=&quot;boq studio&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;You can subscribe to the &lt;a href=&quot;http://feeds.feedburner.com/weareboq/bloq-en&quot;&gt;bloq feed&lt;/a&gt; and follow us on &lt;a href=&quot;http://twitter.com/weareboq&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;http://facebook.com/weareboq&quot;&gt;Facebook&lt;/a&gt;, where we can always continue the conversation.&lt;/p&gt;
+</content>
+		  </entry>
+		
+  
+  	
+  
+
+</feed>

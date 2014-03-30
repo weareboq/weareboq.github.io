@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Bloq</title>
+  <link href="http://weareboq.com/bloq/"/>
+  <link type="application/atom+xml" rel="self" href="http://weareboq.com/bloq-pt.atom"/>
+  <updated>2014-03-30T21:28:52+01:00</updated>
+  <id>http://weareboq.com/</id>
+
+  
+  	
+		  <entry>
+		    <id>http://weareboq.com/bloq/quartas-nomadas</id>
+		    <link type="text/html" rel="alternate" href="http://weareboq.com/bloq/quartas-nomadas"/>
+		    <title>Quartas Nómadas</title>
+		    <published>2011-12-06T00:00:00+00:00</published>
+		    <updated>2011-12-06T00:00:00+00:00</updated>
+		    <author>
+		      <name>Guilherme Cartaxo</name>
+		      <uri>http://weareboq.com/</uri>
+		    </author>
+		    <content type="html">&lt;p&gt;No dia 16 de Novembro decidi experimentar uma coisa diferente: peguei no portátil e, em vez de vir para o nosso estúdio, fui passar o dia a trabalhar no &lt;a href=&quot;http://www.ateliermob.com/&quot;&gt;ateliê de arquitetura&lt;/a&gt; de uns amigos. Foi um grande dia de trabalho: consegui fazer o que queria, tive ótimas conversas, conheci pessoas novas e até almocei comida italiana caseira.&lt;/p&gt;
+
+&lt;p&gt;A ideia de passar um dia a trabalhar noutro sítio, andava já há algum tempo a amadurecer na minha cabeça, motivada por algumas observações sobre a forma como trabalho:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Faz-me bem sair da minha zona de conforto e lidar com o imprevisto;&lt;/li&gt;
+&lt;li&gt;Aprendo muito a trabalhar junto de pessoas que fazem outras coisas e vêm o mundo com outros olhos;&lt;/li&gt;
+&lt;li&gt;Sou curioso em relação à forma como os outros organizam e ocupam os seus espaços de trabalho;&lt;/li&gt;
+&lt;li&gt;Gosto de mostrar o meu trabalho a outras pessoas e ouvir o que têm a dizer sobre ele.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O problema das ideias maduras é que &lt;a href=&quot;http://www.youtube.com/watch?v=24prm3XjVgk&quot;&gt;ocupam demasiado espaço na nossa cabeça&lt;/a&gt;. Ter ido finalmente passar o dia ao &lt;a href=&quot;http://www.ateliermob.com/&quot;&gt;ateliermob&lt;/a&gt; ultrapassou de tal forma as minhas expectativas que tomei uma decisão importante: as minhas quartas-feiras iam passar a ser todas assim.&lt;/p&gt;
+
+&lt;p&gt;E assim nasceram as &lt;strong&gt;Quartas Nómadas&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Na quarta seguinte fui para a &lt;a href=&quot;http://corefactor.pt/&quot;&gt;CoreFactor&lt;/a&gt;, uma empresa de desenvolvimento web. A seguir fui para o &lt;a href=&quot;http://coworklisboa.pt/&quot;&gt;Cowork Lisboa&lt;/a&gt; onde estive com a &lt;a href=&quot;http://www.widgilabs.com/&quot;&gt;WidgiLabs&lt;/a&gt;, uma empresa de desenvolvimento WordPress. Três Quartas Nómadas depois, o padrão confirma-se: consigo fazer o meu trabalho, tenho conversas ótimas, aprendo imenso e conheço pessoas novas.&lt;/p&gt;
+
+&lt;p&gt;Entretanto a &lt;a href=&quot;http://twitter.com/ananeves&quot;&gt;@ananeves&lt;/a&gt; interessou-se pela história e escreveu &lt;a href=&quot;http://twitter.com/ananeves&quot;&gt;um artigo sobre o assunto&lt;/a&gt;. Depois a &lt;a href=&quot;http://twitter.com/AnaDataGirl&quot;&gt;@AnaDataGirl&lt;/a&gt; fez-me umas perguntas por mail e escreveu no seu blogue sobre &lt;a href=&quot;http://artlifework.wordpress.com/2011/11/29/serendipity-at-wednesdays-a-nomad-way-of-working/&quot;&gt;Quartas Nómadas e Serendipidade&lt;/a&gt;. E agora já há &lt;a href=&quot;https://twitter.com/#!/widgilabs/status/142329434773524480&quot;&gt;mais&lt;/a&gt; &lt;a href=&quot;https://twitter.com/#!/geoannita/status/142654184972492801&quot;&gt;gente&lt;/a&gt; a experimentar o mesmo!&lt;/p&gt;
+
+&lt;p&gt;A próxima Quarta Nómada é já amanhã no &lt;a href=&quot;http://thelisbonstudio.blogspot.com/&quot;&gt;Lisbon Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se têm uma relação nómada com o trabalho ou uma mesa para partilhar digam qualquer coisa no Twitter: &lt;a href=&quot;http://twitter.com/guictx&quot;&gt;@guictx&lt;/a&gt;, #quartasnomadas ou #nomadwednesdays.&lt;/p&gt;
+</content>
+		  </entry>
+		
+  
+  	
+  
+  	
+  
+  	
+		  <entry>
+		    <id>http://weareboq.com/bloq/bloq-o-nosso-blog</id>
+		    <link type="text/html" rel="alternate" href="http://weareboq.com/bloq/bloq-o-nosso-blog"/>
+		    <title>bloq - o nosso blogue</title>
+		    <published>2011-11-28T00:00:00+00:00</published>
+		    <updated>2011-11-28T00:00:00+00:00</updated>
+		    <author>
+		      <name>Guilherme Cartaxo</name>
+		      <uri>http://weareboq.com/</uri>
+		    </author>
+		    <content type="html">&lt;p&gt;Este estúdio de design carbura a conversas.&lt;/p&gt;
+
+&lt;p&gt;Entre nós, estamos sempre a falar sobre os projectos em mãos e a discutir minuciosamente todas as decisões a tomar. Com os amigos, desabafamos desânimos e damos largas ao entusiasmo. Com colegas designers e programadores, partilhamos experiências e fazemos muitas e muitas perguntas. Conversar é, por isso, uma parte muito importante do nosso processo de trabalho e essencial para irmos dando sentido ao que nos acontece. E há muita coisa a precisar de sentido quando o estúdio de design que se tem é em Portugal.&lt;/p&gt;
+
+&lt;p&gt;Este &lt;a href=&quot;http://weareboq.com/en/bloq&quot;&gt;bloq&lt;/a&gt;, que agora começamos, é a nossa tentativa de sistematizar todas estas conversas num registo mais ou menos organizado. Vamos escrever sobre o nosso trabalho e também sobre a forma como trabalhamos. Se às vezes descobrimos uma solução elegante para um problema, outras encontramos a fórmula exacta para arranjar sarilhos. Acreditamos que ambas devem ser partilhadas. Para lá do que fazemos no estúdio, queremos escrever sobre projectos e pessoas que nos interessam e que nos inspiram. Felizmente para isso não falta material.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que gostem!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://weareboq.com/images/estudio_boq.jpg&quot; alt=&quot;boq studio&quot; title=&quot;boq studio&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Podem subscrever o &lt;a href=&quot;http://feeds.feedburner.com/weareboq/bloq-pt&quot;&gt;feed do bloq&lt;/a&gt; e acompanhar-nos no &lt;a href=&quot;http://twitter.com/weareboq&quot;&gt;Twitter&lt;/a&gt; e no &lt;a href=&quot;http://facebook.com/weareboq&quot;&gt;Facebook&lt;/a&gt;, onde esperamos poder continuar a conversa.&lt;/p&gt;
+</content>
+		  </entry>
+		
+  
+
+</feed>
