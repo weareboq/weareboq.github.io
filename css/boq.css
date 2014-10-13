@@ -602,6 +602,9 @@ blockquote:before {
   margin-bottom: 13px;
 }
 /*-- Jobs ----------------- */
+.vagas #content {
+  text-align: left;
+}
 .vagas #content ul {
   list-style-type: none;
 }
