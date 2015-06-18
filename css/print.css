@@ -27,7 +27,8 @@ strong {
 #skipnav,
 #headerbox,
 #navbox,
-#footerbox {
+#footerbox,
+.noprint {
   display: none;
 }
 #container {
@@ -108,7 +109,7 @@ p:last-child {
 }
 p:last-child img {
   float: left;
-  margin-right: 2mm;
+  margin-right: 1mm;
   margin-bottom: 2mm;
   width: 102mm;
   height: auto;

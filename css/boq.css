@@ -247,7 +247,7 @@ header {
   width: 670px;
   margin: 0 auto;
   overflow: hidden;
-  text-align: justify;
+  text-align: left;
   padding: 0 35px;
 }
 #footerbox {
@@ -261,6 +261,10 @@ header {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
   background: url('../images/sheet_back_footer.png') repeat-x scroll center top transparent;
+}
+img,
+video {
+  max-width: 100%;
 }
 footer {
   width: 670px;
@@ -520,7 +524,7 @@ blockquote:before {
 }
 /*-- Project ----------------- */
 .projecto {
-  text-align: justify;
+  text-align: left;
   position: relative;
   float: left;
   width: 680px;

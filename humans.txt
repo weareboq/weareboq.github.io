@@ -35,6 +35,10 @@
     Contact: bruno [at] weareboq.com
     Location: Mercês, Portugal
 
+    Human: Inês Fortunato
+    Contact: ines [at] weareboq.com
+    Location: Carcavelos, Portugal
+
 /* THANKS */
 
 	Bloq background texture: Christopher J. Ivory
@@ -45,5 +49,5 @@
 	Twitter: @weareboq
 	Language: English / Português
 	Doctype: HTML5
-	Front-end: HTML5, CSS3, Hyphenator.js
+	Front-end: HTML5, CSS3
 	Back-end: Jekyll
