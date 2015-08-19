@@ -833,6 +833,9 @@ input.button {
   background: transparent !important;
   font-weight: 300 !important;
 }
+#mce-responses #mce-error-response a {
+  display: none;
+}
 /*------------------------------------------------------------
     MEDIA QUERIES
 ------------------------------------------------------------*/
