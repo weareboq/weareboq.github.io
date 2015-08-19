@@ -626,7 +626,7 @@ blockquote:before {
 ------------------------------------------------------------*/
 .featured {
   margin-top: 50px;
-  margin-bottom: 25px;
+  margin-bottom: 75px;
   border: 0;
   position: relative;
 }
@@ -791,6 +791,47 @@ body.bloq {
   margin-right: 10px;
   margin-left: -15px;
   font-weight: 700;
+}
+#mc_embed_signup {
+  min-height: 100px;
+  position: relative;
+}
+input {
+  line-height: 25px;
+  font-size: 17px;
+  font-family: gesta, geneva, tahoma, sans-serif;
+  font-weight: 500;
+  border: 1px solid #333;
+  padding: 5px 10px;
+  float: left;
+  margin: 0;
+  width: 218px;
+}
+input.button {
+  background: #333;
+  color: #fff;
+  font-weight: 700;
+  width: 110px;
+}
+.mc-field-group {
+  width: 240px;
+  float: left;
+}
+#mc_embed_signup input.mce_inline_error {
+  border-color: #c00;
+}
+#mc_embed_signup div.mce_inline_error {
+  position: absolute;
+  top: 50px;
+  background: transparent !important;
+  color: #c00 !important;
+  font-weight: 300 !important;
+}
+#mce-responses {
+  position: absolute;
+  top: 50px;
+  background: transparent !important;
+  font-weight: 300 !important;
 }
 /*------------------------------------------------------------
     MEDIA QUERIES
