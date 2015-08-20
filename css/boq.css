@@ -813,6 +813,11 @@ input.button {
   font-weight: 700;
   width: 110px;
 }
+input.button:hover {
+  background: #c00;
+  border-color: #c00;
+  cursor: pointer;
+}
 .mc-field-group {
   width: 240px;
   float: left;
